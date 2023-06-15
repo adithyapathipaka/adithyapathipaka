@@ -16,15 +16,15 @@ I am constantly seeking opportunities to expand my knowledge and stay up-to-date
 
 ## <ins>Tools & Technologies</ins>
 <br/>
-<img alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=red%22"/>
-<img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&"/>
+<img alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&"/>
-<img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&"/>
+<img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&"/>
 <img alt="kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&"/>
-<img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&"/>
-<img alt="kafka" src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&"/>
-<img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
+<img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img alt="kafka" src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 
 <br/>
 <br/>
@@ -32,4 +32,4 @@ I am constantly seeking opportunities to expand my knowledge and stay up-to-date
 ## <ins>You Can Connect me on</ins>
 <br/>
 <a href="https://www.linkedin.com/in/adithyapathipaka/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://www.linkedin.com/in/adithyapathipaka/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/adithyapathipaka" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" /></a>
