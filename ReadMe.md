@@ -22,28 +22,14 @@ I am constantly seeking opportunities to expand my knowledge and stay up-to-date
 
 # Tools & Technologies
 
-<center>
-<img alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&"/>
-<img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&"/>
-<img alt="kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&"/>
-<img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img alt="kafka" src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oraclejava&logoColor=#F80000"/>
-<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</center>
+![python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) !["Scala"](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure) ![kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![kafka](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oraclejava&logoColor=#F80000) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 <br/>
 
 # You Can Connect me on
 
-<center>
-<a href="https://www.linkedin.com/in/adithyapathipaka/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://github.com/adithyapathipaka" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" /></a>
-</center>
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adithyapathipaka/)  [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github)](https://github.com/adithyapathipaka)
+
 
 
 
