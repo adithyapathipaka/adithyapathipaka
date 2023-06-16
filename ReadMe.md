@@ -1,6 +1,7 @@
 <h2>Hello, Data Wizards! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
  <p align='center'>
 
+
 # About Me
 I'm Adithya Pathipaka, with over 5 years of experience in the field of Big Data and Cloud technologies. Throughout my career, I have gained expertise in designing and implementing robust data solutions on cloud platforms, enabling organizations to derive valuable insights from their vast amounts of data.
 
@@ -12,6 +13,11 @@ In addition to my technical expertise, I possess a strong analytical mindset and
 
 I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest advancements in Big Data and Cloud technologies. I am excited about the future of data and the opportunities it presents for organizations to gain a competitive edge. I am confident in my ability to contribute my expertise and drive transformative change through innovative and efficient data solutions.
 <br/>
+
+# Git Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=adithyapathipaka&theme=radical&hide_border=false)](https://git.io/streak-stats)
+![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyapathipaka&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyapathipaka&show_icons=true&theme=radical&layout=compact)
 
 
 # Tools & Technologies
@@ -38,3 +44,6 @@ I am constantly seeking opportunities to expand my knowledge and stay up-to-date
 <a href="https://www.linkedin.com/in/adithyapathipaka/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://github.com/adithyapathipaka" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" /></a>
 </center>
+
+
+
