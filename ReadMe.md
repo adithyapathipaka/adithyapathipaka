@@ -1,8 +1,8 @@
-<h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
+<h2>Hello, Data Wizards! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
  <p align='center'>
 
- ## <ins>About Me</ins>
- I'm Adithya Pathipaka, with over 5 years of experience in the field of Big Data and Cloud technologies. Throughout my career, I have gained expertise in designing and implementing robust data solutions on cloud platforms, enabling organizations to derive valuable insights from their vast amounts of data.
+# About Me
+I'm Adithya Pathipaka, with over 5 years of experience in the field of Big Data and Cloud technologies. Throughout my career, I have gained expertise in designing and implementing robust data solutions on cloud platforms, enabling organizations to derive valuable insights from their vast amounts of data.
 
 My journey in the realm of Big Data began with a solid foundation in data engineering, where I honed my skills in processing, transforming, and storing large-scale data sets. I have hands-on experience with various data processing frameworks, such as Apache Spark, Apache Hadoop, and Apache Kafka. Leveraging these tools, I have successfully built scalable and distributed data pipelines that handle immense volumes of data with efficiency and reliability.
 
@@ -12,10 +12,11 @@ In addition to my technical expertise, I possess a strong analytical mindset and
 
 I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest advancements in Big Data and Cloud technologies. I am excited about the future of data and the opportunities it presents for organizations to gain a competitive edge. I am confident in my ability to contribute my expertise and drive transformative change through innovative and efficient data solutions.
 <br/>
-<br/>
 
-## <ins>Tools & Technologies</ins>
-<br/>
+
+# Tools & Technologies
+
+<center>
 <img alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&"/>
@@ -25,11 +26,15 @@ I am constantly seeking opportunities to expand my knowledge and stay up-to-date
 <img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img alt="kafka" src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oraclejava&logoColor=#F80000"/>
+<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</center>
+<br/>
 
-<br/>
-<br/>
+# You Can Connect me on
 
-## <ins>You Can Connect me on</ins>
-<br/>
+<center>
 <a href="https://www.linkedin.com/in/adithyapathipaka/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://github.com/adithyapathipaka" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" /></a>
+</center>
