@@ -3,7 +3,7 @@
 
 
 # About Me
-I'm Adithya Pathipaka, with over 5 years of experience in the field of Big Data and Cloud technologies. Throughout my career, I have gained expertise in designing and implementing robust data solutions on cloud platforms, enabling organizations to derive valuable insights from their vast amounts of data.
+I'm Adithya Pathipaka, with over 7+ years of experience in the field of Big Data and Cloud technologies. Throughout my career, I have gained expertise in designing and implementing robust data solutions on cloud platforms, enabling organizations to derive valuable insights from their vast amounts of data.
 
 My journey in the realm of Big Data began with a solid foundation in data engineering, where I honed my skills in processing, transforming, and storing large-scale data sets. I have hands-on experience with various data processing frameworks, such as Apache Spark, Apache Hadoop, and Apache Kafka. Leveraging these tools, I have successfully built scalable and distributed data pipelines that handle immense volumes of data with efficiency and reliability.
 
